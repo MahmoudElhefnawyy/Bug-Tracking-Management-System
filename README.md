@@ -116,17 +116,3 @@ Contributions are welcome! Follow these steps:
     git push origin feature/new-feature
     ```
 5. Open a Pull Request.
-
----
-
-## ⚖️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Contact
-
-Developed by: **Mahmoud Elhefnawy**  
-GitHub: [MahmoudElhefnawyy](https://github.com/MahmoudElhefnawyy)  
-Email: [your-email@example.com](mailto:your-email@example.com)
